@@ -7,7 +7,7 @@
 ![Release](https://img.shields.io/github/v/release/mikoi25/prueba)
 ![Issues](https://img.shields.io/github/issues/mikoi25/prueba)
 ![Último commit](https://img.shields.io/github/last-commit/mikoi25/prueba)
-![Licencia](https://img.shields.io/github/license/mikoi25/prueba)
+![Licencia](https://img.shields.io/github/license/mikoi25/prueba?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
