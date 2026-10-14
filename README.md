@@ -1,3 +1,14 @@
+![Estático](https://img.shields.io/badge/Legion--del--Mal-Activa-blue)
+
+
+![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Workflow](https://img.shields.io/github/actions/workflow/status/mikoi25/prueba/ci.yml)
+![Release](https://img.shields.io/github/v/release/mikoi25/prueba)
+![Issues](https://img.shields.io/github/issues/mikoi25/prueba)
+![Último commit](https://img.shields.io/github/last-commit/mikoi25/prueba)
+![Licencia](https://img.shields.io/github/license/mikoi25/prueba)
+
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
